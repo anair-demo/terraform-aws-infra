@@ -24,4 +24,4 @@ terraform apply
 - `outputs.tf`: Key outputs (e.g., instance IP)
 
 ## Author
-[Your Name]
+Arati Nair
